@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593214273664",
+    "project_id": "chatapp-37a92",
+    "storage_bucket": "chatapp-37a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593214273664:android:418a056a203958f70c8e65",
+        "android_client_info": {
+          "package_name": "com.varunbansal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593214273664-un3mf8rt9u4o8cj4gadvroofnq6auq29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMxlIB_561bZ04h5iAFPDnrCGaXTjfqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593214273664-un3mf8rt9u4o8cj4gadvroofnq6auq29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
